@@ -17,7 +17,7 @@
 
 <div ng-controller="taskManagerController">
 <h2 class="page-title">Task Manager using Spring MVC 4 Rest &amp; AngularJS</h2>
-<h4 class="page-title">Demo &amp; Tutorial</a></h4>	
+<h4 class="page-title">Demo</a></h4>	
 	<div id="task-panel" class="fadein fadeout showpanel panel"  ng-show="toggle">	
 		<div class="panel-heading">
 			<i class="panel-title-icon fa fa-tasks"></i>
